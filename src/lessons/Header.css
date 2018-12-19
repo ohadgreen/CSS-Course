@@ -1,0 +1,50 @@
+.main-header {
+    width: 100%;
+    background: #2ddf5c;
+    padding: 8px 16px;
+}
+
+.main-header__brand {
+    color: #0e4f1f;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.main-header__brand:hover,
+.main-header__brand:active,
+.main-nav__item a:hover,
+.main-nav__item a:active {
+    color: white;
+    text-decoration: underline
+}
+
+.main-header > div {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.main-nav {
+    display: inline-block;
+    text-align: right;
+    width: calc(100% - 70px);
+    vertical-align: middle;
+}
+
+.main-nav__items {
+    margin: 0px;
+    padding: 0px;
+    padding-right: 20px;
+}
+
+.main-nav__item {
+    display: inline-block;
+    margin:0px 16px;
+}
+
+.main-nav__item a {
+    color: #0e4f1f;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 14px;
+}

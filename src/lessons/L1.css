@@ -4,30 +4,3 @@ body {
 .main-page {
     font-family: 'Montserrat', sans-serif;
 }
-
-.main-header {
-    width: 100%;
-    background: #2ddf5c;
-    padding: 10px 16px
-}
-
-.main-nav__item {
-    display: inline-block;
-}
-
-#product-overview {
-    background: rgb(230, 54, 54);
-    width: 100%;
-    height: 200px;
-    padding: 10px;
-}
-
-#product-overview h1 {
-    color: white;
-    font-family: 'Anton', sans-serif;
-}
-
-.section-title {
-    color: #2ddf5c;
-    
-}
