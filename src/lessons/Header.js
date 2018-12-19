@@ -15,7 +15,7 @@ export const Header = (props) => {
                         <li className="main-nav__item">
                             <a href="customers/index.html">Customers</a>
                         </li>
-                        <li className="main-nav__item">
+                        <li className="main-nav__item main-nav__item--cta">
                             <a href="start-hosting/index.html">Start Hosting</a>
                         </li>
                     </ul>
