@@ -63,19 +63,19 @@ export const Body = (props) => {
             <h1 className="section-title">Many Good Reasons to Stick Around</h1>
             <ul className="key-features__list">
                 <li>
-                    <div>
+                    <div className="key-feature__image">
 
                     </div>
                     <p>3,857,000 Trusting Customers</p>
                 </li>
                 <li>
-                    <div>
+                    <div className="key-feature__image">
 
                     </div>
                     <p>99.999% Uptime Guarantee</p>
                 </li>
                 <li>
-                    <div>
+                    <div className="key-feature__image">
 
                     </div>
                     <p>Lightning Fast CDN</p>

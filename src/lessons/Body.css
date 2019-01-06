@@ -89,7 +89,8 @@
     background: #ff1b68;
     margin-top: 50px;
     padding: 20px;
-    width: calc(100% - 40px);
+    width: 100%;
+    vertical-align: top;
 }
 
 .key-features .section-title {
@@ -111,3 +112,11 @@
     width: 30%;
 }
 
+.key-feature__image {
+    background: #f86aa5;
+    border: 2px solid #4b4646;
+    border-radius: 50%;
+    width: 128px;
+    height: 128px;
+    margin: auto;
+}
