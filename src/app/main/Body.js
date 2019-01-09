@@ -13,7 +13,7 @@ export const Body = (props) => {
                 <h1 className="section-title">
                     Choose Your Plan
         </h1>
-        <div>
+        <div className="plans__list">
                 <article className="plan">
                     <h1 className="plan__title">FREE</h1>
                     <h2 className="plan__price">$0/month</h2>

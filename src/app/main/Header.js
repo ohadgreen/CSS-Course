@@ -13,13 +13,13 @@ export const Header = props => {
       <nav className="main-nav">
         <ul className="main-nav__items">
           <li className="main-nav__item">
-            <Link to="/packages">Packages</Link>
+            <Link to="/packages">חבילות</Link>
           </li>
           <li className="main-nav__item">
-            <Link to="/customers">Customers</Link>
+            <Link to="/customers">לקוחות</Link>
           </li>
           <li className="main-nav__item main-nav__item--cta">
-            <Link to="/hosting">Start Hosting</Link>
+            <Link to="/hosting">הוסטינג</Link>
           </li>
         </ul>
       </nav>
